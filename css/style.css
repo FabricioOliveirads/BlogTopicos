@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: darkslategrey;
+    color: white;
+    text-align: center;
+}
+img{
+    display:flex;
+    max-width: 600px;
+    max-height: 600px;
+    margin-left: auto;
+    margin-right: auto;    
+}
+.comentario{
+    text-align: left;
+}
